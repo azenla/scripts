@@ -1,0 +1,5 @@
+name: downloader
+version: 1.0.0
+author: Kenneth Endfinger <kaendfinger@gmail.com>
+dependencies:
+  http: any
